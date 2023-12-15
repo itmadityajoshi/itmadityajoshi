@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
-<h3 align="center">I am Bsc.CSIT gradudated and passionate Web Developer from Nepal.</h3>
+<h3 align="center">I am Bsc.CSIT graduated and passionate Web Developer from Nepal.</h3>
 
 
 
