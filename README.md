@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Django Framework and Courses etc.**
+- 🌱 I’m currently learning **Python, Data Science and Machine Learning courses etc.**
 
 - 📫 How to reach me **adityajoshi316@gmail.com**
 
