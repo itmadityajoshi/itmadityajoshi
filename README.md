@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Nextjs.**
+- 🌱 I’m currently learning Django web Development.**
 
 - 📫 How to reach me **adityajoshi316@gmail.com**
 
