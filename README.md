@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
-<h3 align="center">I am Bsc.CSIT graduated and passionate Web Developer from Nepal.</h3>
+<h3 align="center">I am Computer Science and passionate Web Developer.</h3>
 
 
 
-- 🌱 I’m currently learning Django web Development.**
+- 🌱 I’m currently doing Python Django Development.**
 
-- 📫 How to reach me **adityajoshi316@gmail.com**
+- 📫 How to reach me **iadityajoshi.1996@gmail.com**
 
 - 📄 Know about me [https://github.com/itmadityajoshi](https://github.com/itmadityajoshi)
 
