@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
-<h3 align="center">I am Computer Science and passionate Web Developer.</h3>
+<h3 align="center">I am a Computer Science and passionate Web Developer.</h3>
 
 
 
